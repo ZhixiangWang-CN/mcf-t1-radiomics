@@ -1,0 +1,2 @@
+audit_id,image_path,mask_path,verified_correspondence
+Example_001,/path/to/image.nii.gz,/path/to/mask.nii.gz,false
